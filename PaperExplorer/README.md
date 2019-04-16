@@ -14,7 +14,7 @@ Example:
 
 Expected output:
 
-```PaperExplorer moissinb$ python3.6 recommender.py
+   `PaperExplorer moissinb$ python3.6 recommender.py
 
     **************************************************
     ***************What would you like ?**************
@@ -31,6 +31,7 @@ Expected output:
    
    "Leveraging Game Design to Promote Effective User Behavior of Intelligent Tutoring Systems."
    by Matthew W. Johnson, and  Tomoko Okimoto, and  Tiffany Barnes
-   in ITS 2012```
-
-You will need to update recommender.py with your own list of venues.
+   in ITS 2012`
+   
+   
+You will need to update `recommender.py` with your own list of venues.
