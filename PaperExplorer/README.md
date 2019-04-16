@@ -14,10 +14,10 @@ Example:
 
 Expected output:
 
-`PaperExplorer moissinb$ python3.6 recommender.py
+```PaperExplorer moissinb$ python3.6 recommender.py
 
     **************************************************
-    ***************What would you like ?**********
+    ***************What would you like ?**************
     **************************************************
     Enter the option number
     0 - Randomly select a paper
@@ -31,6 +31,6 @@ Expected output:
    
    "Leveraging Game Design to Promote Effective User Behavior of Intelligent Tutoring Systems."
    by Matthew W. Johnson, and  Tomoko Okimoto, and  Tiffany Barnes
-   in ITS 2012`
+   in ITS 2012```
 
 You will need to update recommender.py with your own list of venues.
