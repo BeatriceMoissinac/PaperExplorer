@@ -27,9 +27,10 @@ Expected output:
    
     Venues available: aaai, aied, icer, icml, its, kdd, lak, nips 
     1
-Please input keywords separated by commas: tutor,user
-"Leveraging Game Design to Promote Effective User Behavior of Intelligent Tutoring Systems."
-by Matthew W. Johnson, and  Tomoko Okimoto, and  Tiffany Barnes
-in ITS 2012`
+   Please input keywords separated by commas: tutor,user
+   
+   "Leveraging Game Design to Promote Effective User Behavior of Intelligent Tutoring Systems."
+   by Matthew W. Johnson, and  Tomoko Okimoto, and  Tiffany Barnes
+   in ITS 2012`
 
 You will need to update recommender.py with your own list of venues.
